@@ -22,7 +22,7 @@
     "in-page",
     "search"
   ],
-  "author": "Pulipuli Chen <blog@pulipuli.info>",
+  "author": "rhysd <lin90162@yahoo.co.jp>",
   "license": "MIT",
   "devDependencies": {
     "@types/mocha": "^5.2.7",
